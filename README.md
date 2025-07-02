@@ -18,7 +18,7 @@
 
 
 ## Images
-![Ex.1 - Played Tone](./images/ex1_tone.png)
+![Ex.1 - Played Tone](./images/ex1_tone.png "Ex.1 - Played Tone")
 ![plot](./directory_1/directory_2/.../directory_n/plot.png)
 ![plot](./directory_1/directory_2/.../directory_n/plot.png)
 ![plot](./directory_1/directory_2/.../directory_n/plot.png)
