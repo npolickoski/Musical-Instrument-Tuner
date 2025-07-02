@@ -1,2 +1,11 @@
 # Musical-Instrument-Tuner using MatLab
-The goal of this project is to design and implement a real-time stringed instrument tuner using MATLAB. By capturing live audio input through a microphone, applying the Fast Fourier Transform (FFT), and analyzing the frequency spectrum, the tuner identifies the fundamental frequency of the played note and maps it to its corresponding musical note and octave. A stable note detection mechanism ensures consistent and reliable feedback for the user, while real-time spectrum visualization provides an intuitive view of the signal. This project demonstrates fundamental concepts in digital signal processing (DSP) such as sampling, spectral analysis, and frequency-domain peak detection.
+Goal: 
+- design and implement a real-time stringed instrument tuner using MATLAB
+Concepts Used: 
+- live audio capture via microphone
+- Fast Fourier Transform (FFT)
+- frequency spectrum analysis
+Functionality:
+- tuner identifies the fundamental frequency of the played note and maps it to its corresponding musical note and octave. A stable note detection mechanism ensures consistent and reliable feedback for the user, while real-time spectrum visualization provides an intuitive view of the signal
+External Packages:
+- MatLab Audio Toolbox (for real-time spectrum visualization plot)
