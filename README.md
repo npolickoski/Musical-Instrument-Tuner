@@ -20,7 +20,12 @@
 ## Images
 ![Ex.1 - Played Tone](./images/ex1_tone.png)
 
-Ex.1 - Played Tone
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+Ex.1b - Tone Detected
+![Ex.1 - Played Tone](./images/ex1_tuner.png)
+
+Ex.2a - Played Tone
+![Ex.1 - Played Tone](./images/ex2_tone.png)
+
+Ex.2b - Tone Detected
+![Ex.1 - Played Tone](./images/ex2_tuner.png)
+
