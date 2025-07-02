@@ -18,18 +18,18 @@
 
 
 ## Images
-![Ex.1 - Played Tone](./images/ex1_tone.png)
+![Ex.1 - Played Tone](./utils/images/ex1_tone.png)
 
 Ex.1a - Played Tone
 
-![Ex.1 - Played Tone](./images/ex1_tuner.png)
+![Ex.1 - Played Tone](./utils/images/ex1_tuner.png)
 
 Ex.1b - Tone Detected
 
-![Ex.1 - Played Tone](./images/ex2_tone.png)
+![Ex.1 - Played Tone](./utils/images/ex2_tone.png)
 
 Ex.2a - Played Tone
 
-![Ex.1 - Played Tone](./images/ex2_tuner.png)
+![Ex.1 - Played Tone](./utils/images/ex2_tuner.png)
 
 Ex.2b - Tone Detected
